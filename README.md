@@ -1,4 +1,4 @@
-# Course outline (Syllabus of the course)
+# Fundamentals of Quantum Computing
 
 ## Syllabus:
 
